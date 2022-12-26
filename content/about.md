@@ -1,4 +1,6 @@
-Acme Corporation TM is the world's leading manufacturer of digital shapes. From squares and circles to triangles and hexagons, we have it all. Browse through our collection of various forms with different thicknesses and line styles.
+# Overview
+
+Rothbard Anarchism TM is the world's leading manufacturer of digital shapes. From squares and circles to triangles and hexagons, we have it all. Browse through our collection of various forms with different thicknesses and line styles.
 
 We shape the world. You live in it.
 
@@ -6,7 +8,7 @@ We provide smiles to hundreds of happy customers.
 
 Manufacturing
 
-At Acme Corporation, we take pride in what we create. Our manufacturing process goes through 3 different stages of fine workmanship to give you the best possible shapes.
+At Rothbard Anarchism, we take pride in what we create. Our manufacturing process goes through 3 different stages of fine workmanship to give you the best possible shapes.
 
 
 1) Drawing - Our shapes are drawn with precision to 1/100 of a millimeter.
